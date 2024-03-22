@@ -1,0 +1,151 @@
+commit f7737f03b92f8faf0c22d7494bb303936e617786
+Merge: a3cafee e4aa1bb
+Author: Abel Alejandro López Cabero <abel.lopez97@outlook.com>
+Date:   Thu Mar 21 20:10:06 2024 -0400
+
+    agregando modificaiones al index.html
+
+commit a3cafee0c3d6d72e3e48dc350ac90df44c9b6829
+Author: Abel Alejandro López Cabero <abel.lopez97@outlook.com>
+Date:   Thu Mar 21 20:01:47 2024 -0400
+
+    modificando el index.html
+
+commit e4aa1bbbcf626b20e8680c1e88f7cda249f5b938
+Merge: bbaa5d8 452df08
+Author: Abel Alejandro López Cabero <70450088+0093564228@users.noreply.github.com>
+Date:   Thu Mar 21 19:53:29 2024 -0400
+
+    Merge pull request #5 from nuckesito/develop
+    
+    modificando contenido solo al index.html
+
+commit 452df08903e172aa4e184a4dfe6da238b281b917
+Author: Jose <josehco85@gmail.com>
+Date:   Thu Mar 21 19:06:08 2024 -0400
+
+    ultimo pull del dia jueves con conflictos
+
+commit bbaa5d8ccea5aa5c6dba9f4d821a22b6860b2883
+Merge: 2baf7c7 0a54946
+Author: Abel Alejandro López Cabero <70450088+0093564228@users.noreply.github.com>
+Date:   Thu Mar 21 19:03:43 2024 -0400
+
+    Merge pull request #4 from nuckesito/develop
+    
+    aceptando cambiossss
+
+commit 0a549461fb664be65130baa378d40db3cc96ac15
+Author: Jose <josehco85@gmail.com>
+Date:   Thu Mar 21 18:51:44 2024 -0400
+
+    Elemento 5 no tocado
+
+commit 33ff80068dd3c3d37463914c5b6bada283be84ec
+Author: Jose <josehco85@gmail.com>
+Date:   Thu Mar 21 18:38:02 2024 -0400
+
+    modifique el index
+
+commit 2baf7c7fd81b0d9d3be9b7819c82d970b6a5c3e4
+Author: Jose <josehco85@gmail.com>
+Date:   Thu Mar 21 18:23:56 2024 -0400
+
+    cambio y creacion de un nuevo archivo
+
+commit 173836c98c947559353da10a987e253180db4fec
+Author: Jose <josehco85@gmail.com>
+Date:   Thu Mar 21 18:23:44 2024 -0400
+
+    cambio y creacion de un nuevo archivo
+
+commit 7dc7f2668f9a2f6d318c00fecf363deac0d3e6cb
+Merge: 62c3240 c4a1820
+Author: Abel Alejandro López Cabero <70450088+0093564228@users.noreply.github.com>
+Date:   Thu Mar 21 17:46:07 2024 -0400
+
+    Merge pull request #1 from nuckesito/jose-branch
+    
+    agregando nuevas caracteristicas
+
+commit c4a18200378170024f5e2cd5ad73a470810b49a5
+Author: Jose <josehco85@gmail.com>
+Date:   Thu Mar 21 17:36:06 2024 -0400
+
+    otra modificacion hecha
+
+commit 6a60f28e47a0ae8606549a31cc86752cf9f42a42
+Author: Jose <josehco85@gmail.com>
+Date:   Thu Mar 21 17:33:14 2024 -0400
+
+    Modificaciones a la rama jose-branch
+    
+    hola
+
+commit 62c32401c553414fde8396c5027a921959b91b3a
+Merge: b0eef61 4a685ff
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 18:23:44 2024 -0400
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 4a685ffe4b87f9f73f8bd37546645830bc5ac621
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 18:14:03 2024 -0400
+
+    agregando index.js al index.html
+
+commit b0eef61fd59be7b9e226a4145d56c8415f8b6aa0
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 18:09:49 2024 -0400
+
+    agregando style.css al index.html
+
+commit ddaadab49908863f3423c8d6cb9e4721ff1b9436
+Merge: 1835482 43ae564
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 18:02:12 2024 -0400
+
+    Merge branch 'js'
+
+commit 43ae5649d35307a23d9b4822af60e40ca6eb0bac
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 17:34:11 2024 -0400
+
+    creando index.js
+
+commit 1835482c28f334aff3acca88d7fb71ad569a1ade
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 17:30:00 2024 -0400
+
+    agregando css
+
+commit 622c6ba0a2ff96b71d084bfbcf6b61cac045a804
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 17:20:41 2024 -0400
+
+    creando index.html
+
+commit eea3bb0c8bfaf6e97128b3f3238f8c69cbfbceaa
+Author: Abel Alejandro López Cabero <70450088+0093564228@users.noreply.github.com>
+Date:   Fri Feb 16 15:55:48 2024 -0400
+
+    Creando LICENSE del repositorio
+
+commit 23ade7e1a442ea2585cf5bb0768aabf1d723530d
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 15:38:20 2024 -0400
+
+    agregando mas contenido al readme
+
+commit c1bb8875d344637b206a24f8b9322e314f0df703
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 14:36:38 2024 -0400
+
+    agregnado contenido inicial al README
+
+commit 574e2d852af76a3b85f30bd3cb35226255c5d6fc
+Author: Abel López <abel.lopez97@outlook.com>
+Date:   Fri Feb 16 14:34:07 2024 -0400
+
+    primer commit
